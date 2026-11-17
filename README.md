@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225100052
+# Name: Supriya V
+# Date: 17/11/20
 
 
 # AIM:
@@ -38,6 +38,11 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+# Diagram
+
+<img width="582" height="443" alt="Screenshot 2026-10-14 141855" src="https://github.com/user-attachments/assets/71dc2b54-af13-40aa-bd32-0a4c53d05efa" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -68,6 +73,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+# Diagram 
+
+<img width="489" height="328" alt="Screenshot 2026-11-17 105853" src="https://github.com/user-attachments/assets/2ba07de4-5a45-43bd-a91b-1d548873ed86" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -75,8 +83,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+# Diagram 
 
-
+<img width="476" height="314" alt="Screenshot 2026-11-17 111014" src="https://github.com/user-attachments/assets/59407f9a-cf72-4cc4-ba1c-e8a4fef457cc" />
 
 
 # PACKAGE DIAGRAM:
@@ -90,7 +99,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+<img width="464" height="284" alt="Screenshot 2026-11-17 110241" src="https://github.com/user-attachments/assets/c352711f-430a-4d2e-bb61-70bf0562bd50" />
 
 
 
@@ -106,8 +115,9 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+# Diagram
 
-
+<img width="368" height="282" alt="Screenshot 2026-10-21 130742" src="https://github.com/user-attachments/assets/74a82248-aff3-40c3-b6cc-605508d62f4f" />
 
 
 # SEQUENCE DIAGRAM
